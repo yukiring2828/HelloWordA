@@ -15,7 +15,7 @@ public class HelloWord {
      */
     public static void main(String[] args) {
         System.out.println("Hello Word");
-        System.out.println("よろしくお願いいたします");
+        System.out.println("よろしくお願いいたします！");
         // TODO code application logic here
     }
 }
